@@ -1,4 +1,4 @@
-##### HI THERE
+### HI THERE
 
 
 🚀 Passionate MERN Stack Developer 🌐 | Learning, coding, and building the future of web development! Currently honing my skills in React, Node.js, and MongoDB.
